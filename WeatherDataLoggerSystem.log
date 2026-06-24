@@ -1,0 +1,171 @@
+23-06-2026 19:24:19 | INFO | Program Started
+23-06-2026 19:24:23 | INFO | Menu choice selected: 1
+23-06-2026 19:24:37 | INFO | User searched for city: russia
+23-06-2026 19:24:40 | INFO | Weather data fetched successfully for Moscow
+23-06-2026 19:24:40 | INFO | Weather report stored in database for Moscow
+23-06-2026 19:25:21 | INFO | Menu choice selected: 2
+23-06-2026 19:25:21 | INFO | User viewed weather history
+23-06-2026 19:25:21 | INFO | Retrieved 10 records from database
+23-06-2026 19:33:27 | INFO | Menu choice selected: 3
+23-06-2026 19:33:27 | INFO | Application closed by user
+23-06-2026 19:33:31 | INFO | Program Started
+23-06-2026 19:33:35 | INFO | Menu choice selected: 1
+23-06-2026 19:33:46 | INFO | User searched for city: Bangalore
+23-06-2026 19:33:47 | INFO | Weather data fetched successfully for Bangalore
+23-06-2026 19:33:47 | INFO | Weather report stored in database for Bangalore
+23-06-2026 19:34:03 | INFO | Menu choice selected: 1
+23-06-2026 19:34:09 | INFO | User searched for city: Hyderabad
+23-06-2026 19:34:10 | INFO | Weather data fetched successfully for Hyderabad
+23-06-2026 19:34:10 | INFO | Weather report stored in database for Hyderabad
+23-06-2026 19:34:12 | INFO | Menu choice selected: 1
+23-06-2026 19:34:16 | INFO | User searched for city: Chennai
+23-06-2026 19:34:17 | INFO | Weather data fetched successfully for Chennai
+23-06-2026 19:34:17 | INFO | Weather report stored in database for Chennai
+23-06-2026 19:34:21 | INFO | Menu choice selected: 1
+23-06-2026 19:34:26 | INFO | User searched for city: Delhi
+23-06-2026 19:34:27 | INFO | Weather data fetched successfully for Delhi
+23-06-2026 19:34:27 | INFO | Weather report stored in database for Delhi
+23-06-2026 19:34:32 | INFO | Menu choice selected: America
+23-06-2026 19:34:32 | WARNING | Invalid menu choice entered
+23-06-2026 19:35:01 | INFO | Menu choice selected: American
+23-06-2026 19:35:01 | WARNING | Invalid menu choice entered
+23-06-2026 19:35:10 | INFO | Menu choice selected: Mumbai
+23-06-2026 19:35:10 | WARNING | Invalid menu choice entered
+23-06-2026 19:35:24 | INFO | Menu choice selected: 1
+23-06-2026 19:35:31 | INFO | User searched for city: America
+23-06-2026 19:35:32 | INFO | Weather data fetched successfully for Americana
+23-06-2026 19:35:32 | INFO | Weather report stored in database for Americana
+23-06-2026 19:35:38 | INFO | Menu choice selected: Mumbai
+23-06-2026 19:35:38 | WARNING | Invalid menu choice entered
+23-06-2026 19:35:43 | INFO | Menu choice selected: 1
+23-06-2026 19:35:50 | INFO | User searched for city: Mumbai
+23-06-2026 19:35:50 | INFO | Weather data fetched successfully for Mumbai
+23-06-2026 19:35:50 | INFO | Weather report stored in database for Mumbai
+23-06-2026 19:35:59 | INFO | Menu choice selected: 2
+23-06-2026 19:35:59 | INFO | User viewed weather history
+23-06-2026 19:35:59 | INFO | Retrieved 6 records from database
+23-06-2026 19:36:43 | INFO | Menu choice selected: 3
+23-06-2026 19:36:43 | INFO | Application closed by user
+23-06-2026 19:58:25 | INFO | Program Started
+23-06-2026 19:58:28 | INFO | Menu choice selected: 1
+23-06-2026 19:58:54 | INFO | User searched for city: bangalore
+23-06-2026 19:58:56 | INFO | Weather data fetched successfully for Bangalore
+23-06-2026 19:58:56 | INFO | Weather report stored in database for Bangalore
+23-06-2026 19:59:03 | INFO | Menu choice selected: Hyderabad
+23-06-2026 19:59:03 | WARNING | Invalid menu choice entered
+23-06-2026 19:59:13 | INFO | Menu choice selected: 1
+23-06-2026 19:59:21 | INFO | User searched for city: Hyderabad
+23-06-2026 19:59:21 | INFO | Weather data fetched successfully for Hyderabad
+23-06-2026 19:59:21 | INFO | Weather report stored in database for Hyderabad
+23-06-2026 19:59:28 | INFO | Menu choice selected: 1
+23-06-2026 19:59:32 | INFO | User searched for city: Chennai
+23-06-2026 19:59:35 | INFO | Weather data fetched successfully for Chennai
+23-06-2026 19:59:35 | INFO | Weather report stored in database for Chennai
+23-06-2026 19:59:38 | INFO | Menu choice selected: 1
+23-06-2026 19:59:43 | INFO | User searched for city: Mumbai
+23-06-2026 19:59:45 | INFO | Weather data fetched successfully for Mumbai
+23-06-2026 19:59:45 | INFO | Weather report stored in database for Mumbai
+23-06-2026 19:59:54 | INFO | Menu choice selected: 1
+23-06-2026 19:59:58 | INFO | User searched for city: japan
+23-06-2026 19:59:59 | INFO | Weather data fetched successfully for Tokyo
+23-06-2026 19:59:59 | INFO | Weather report stored in database for Tokyo
+23-06-2026 20:01:36 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 20:01:36 | WARNING | Invalid menu choice entered
+23-06-2026 20:01:39 | INFO | Menu choice selected: 1
+23-06-2026 20:01:45 | INFO | User searched for city: chennai
+23-06-2026 20:01:50 | INFO | Weather data fetched successfully for Chennai
+23-06-2026 20:01:50 | INFO | Weather report stored in database for Chennai
+23-06-2026 20:04:08 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 20:04:08 | WARNING | Invalid menu choice entered
+23-06-2026 20:04:11 | INFO | Menu choice selected: 1
+23-06-2026 20:04:18 | INFO | User searched for city: kosgi
+23-06-2026 20:04:21 | INFO | Weather data fetched successfully for Kosgi
+23-06-2026 20:04:21 | INFO | Weather report stored in database for Kosgi
+23-06-2026 20:10:21 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 20:10:21 | WARNING | Invalid menu choice entered
+23-06-2026 20:10:25 | INFO | Menu choice selected: 1
+23-06-2026 20:10:29 | INFO | User searched for city: kosgi
+23-06-2026 20:10:30 | INFO | Weather data fetched successfully for Kosgi
+23-06-2026 20:10:30 | INFO | Weather report stored in database for Kosgi
+23-06-2026 20:14:33 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 20:14:33 | WARNING | Invalid menu choice entered
+23-06-2026 20:14:39 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 20:14:39 | WARNING | Invalid menu choice entered
+23-06-2026 20:14:53 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 20:14:53 | WARNING | Invalid menu choice entered
+23-06-2026 20:15:27 | INFO | Menu choice selected: 3
+23-06-2026 20:15:27 | INFO | Application closed by user
+23-06-2026 20:15:36 | INFO | Program Started
+23-06-2026 20:15:42 | INFO | Menu choice selected: 3
+23-06-2026 20:16:54 | INFO | Menu choice selected: 1
+23-06-2026 20:17:07 | INFO | User searched for city: tamilanadu
+23-06-2026 20:17:14 | ERROR | Error while fetching weather: 'current'
+23-06-2026 20:17:29 | INFO | Menu choice selected: 1
+23-06-2026 20:17:51 | INFO | User searched for city: Hyderabad
+23-06-2026 20:17:52 | INFO | Weather data fetched successfully for Hyderabad
+23-06-2026 20:17:52 | INFO | Weather report stored in database for Hyderabad
+23-06-2026 20:20:09 | INFO | Menu choice selected: 1
+23-06-2026 20:20:24 | INFO | User searched for city: bangalore
+23-06-2026 20:20:26 | INFO | Weather data fetched successfully for Bangalore
+23-06-2026 20:20:26 | INFO | Weather report stored in database for Bangalore
+23-06-2026 20:20:32 | INFO | Menu choice selected: mumbai
+23-06-2026 20:20:32 | WARNING | Invalid menu choice entered
+23-06-2026 20:20:42 | INFO | Menu choice selected: 1
+23-06-2026 20:21:54 | INFO | User searched for city: bangalore
+23-06-2026 20:21:55 | INFO | Weather data fetched successfully for Bangalore
+23-06-2026 20:21:55 | INFO | Weather report stored in database for Bangalore
+23-06-2026 20:21:59 | INFO | Menu choice selected: 1
+23-06-2026 20:22:04 | INFO | User searched for city: mumbai
+23-06-2026 20:22:06 | INFO | Weather data fetched successfully for Mumbai
+23-06-2026 20:22:06 | INFO | Weather report stored in database for Mumbai
+23-06-2026 20:22:12 | INFO | Menu choice selected: chennai
+23-06-2026 20:22:12 | WARNING | Invalid menu choice entered
+23-06-2026 20:22:18 | INFO | Menu choice selected: 1
+23-06-2026 20:22:23 | INFO | User searched for city: chennai
+23-06-2026 20:22:24 | INFO | Weather data fetched successfully for Chennai
+23-06-2026 20:22:24 | INFO | Weather report stored in database for Chennai
+23-06-2026 20:22:34 | INFO | Menu choice selected: 1
+23-06-2026 20:22:40 | INFO | User searched for city: hyderabad
+23-06-2026 20:22:41 | INFO | Weather data fetched successfully for Hyderabad
+23-06-2026 20:22:41 | INFO | Weather report stored in database for Hyderabad
+23-06-2026 20:22:50 | INFO | Menu choice selected: 1
+23-06-2026 20:22:56 | INFO | User searched for city: delhi
+23-06-2026 20:22:57 | INFO | Weather data fetched successfully for Delhi
+23-06-2026 20:22:57 | INFO | Weather report stored in database for Delhi
+23-06-2026 20:23:01 | INFO | Menu choice selected: 2
+23-06-2026 20:23:01 | INFO | User viewed weather history
+23-06-2026 20:23:01 | INFO | Retrieved 5 records from database
+23-06-2026 20:23:07 | INFO | Menu choice selected: 3
+23-06-2026 20:23:14 | INFO | Menu choice selected: 4
+23-06-2026 20:23:14 | INFO | Application closed by user
+23-06-2026 20:37:53 | INFO | Program Started
+23-06-2026 20:37:57 | INFO | Menu choice selected: 1
+23-06-2026 20:38:29 | INFO | User searched for city: bangalore
+23-06-2026 20:38:30 | INFO | Weather data fetched successfully for Bangalore
+23-06-2026 20:38:30 | INFO | Weather report stored in database for Bangalore
+23-06-2026 20:38:37 | INFO | Menu choice selected: 1
+23-06-2026 20:38:41 | INFO | User searched for city: chennai
+23-06-2026 20:38:42 | INFO | Weather data fetched successfully for Chennai
+23-06-2026 20:38:42 | INFO | Weather report stored in database for Chennai
+23-06-2026 20:38:47 | INFO | Menu choice selected: 1
+23-06-2026 20:38:52 | INFO | User searched for city: mumbai
+23-06-2026 20:38:54 | INFO | Weather data fetched successfully for Mumbai
+23-06-2026 20:38:54 | INFO | Weather report stored in database for Mumbai
+23-06-2026 20:39:03 | INFO | Menu choice selected: 1
+23-06-2026 20:39:08 | INFO | User searched for city: delhi
+23-06-2026 20:39:09 | INFO | Weather data fetched successfully for Delhi
+23-06-2026 20:39:09 | INFO | Weather report stored in database for Delhi
+23-06-2026 20:39:19 | INFO | Menu choice selected: 1
+23-06-2026 20:39:25 | INFO | User searched for city: hyderabad
+23-06-2026 20:39:26 | INFO | Weather data fetched successfully for Hyderabad
+23-06-2026 20:39:26 | INFO | Weather report stored in database for Hyderabad
+23-06-2026 20:39:32 | INFO | Menu choice selected: 1
+23-06-2026 20:39:36 | INFO | User searched for city: nepal
+23-06-2026 20:39:37 | INFO | Weather data fetched successfully for Kathmandu
+23-06-2026 20:39:37 | INFO | Weather report stored in database for Kathmandu
+23-06-2026 20:39:45 | INFO | Menu choice selected: 2
+23-06-2026 20:39:45 | INFO | User viewed weather history
+23-06-2026 20:39:45 | INFO | Retrieved 6 records from database
+23-06-2026 20:39:55 | INFO | Menu choice selected: 3
+23-06-2026 20:40:01 | INFO | Menu choice selected: 4
+23-06-2026 20:40:01 | INFO | Application closed by user

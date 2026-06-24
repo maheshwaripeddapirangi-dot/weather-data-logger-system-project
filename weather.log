@@ -1,0 +1,47 @@
+23-06-2026 19:10:04 | INFO | Menu choice selected: 1
+23-06-2026 19:10:12 | INFO | User searched for city: Hyderabad
+23-06-2026 19:10:13 | INFO | Weather data fetched successfully for Hyderabad
+23-06-2026 19:10:13 | INFO | Weather report stored in database for Hyderabad
+23-06-2026 19:12:19 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 19:12:19 | WARNING | Invalid menu choice entered
+23-06-2026 19:12:27 | INFO | Menu choice selected: 1
+23-06-2026 19:12:33 | INFO | User searched for city: Hyderabad
+23-06-2026 19:12:34 | INFO | Weather data fetched successfully for Hyderabad
+23-06-2026 19:12:34 | INFO | Weather report stored in database for Hyderabad
+23-06-2026 19:14:40 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 19:14:40 | WARNING | Invalid menu choice entered
+23-06-2026 19:14:43 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 19:14:43 | WARNING | Invalid menu choice entered
+23-06-2026 19:14:57 | INFO | Menu choice selected: 1
+23-06-2026 19:15:02 | INFO | User searched for city: Japan
+23-06-2026 19:15:04 | INFO | Weather data fetched successfully for Tokyo
+23-06-2026 19:15:04 | INFO | Weather report stored in database for Tokyo
+23-06-2026 19:16:27 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 19:16:27 | WARNING | Invalid menu choice entered
+23-06-2026 19:16:31 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 19:16:31 | WARNING | Invalid menu choice entered
+23-06-2026 19:16:37 | INFO | Menu choice selected: 1
+23-06-2026 19:16:48 | INFO | User searched for city: Andhrapradesh
+23-06-2026 19:16:49 | WARNING | Weather API Error: No matching location found.
+23-06-2026 19:17:13 | INFO | Menu choice selected: Turky
+23-06-2026 19:17:13 | WARNING | Invalid menu choice entered
+23-06-2026 19:17:24 | INFO | Menu choice selected: chaina
+23-06-2026 19:17:24 | WARNING | Invalid menu choice entered
+23-06-2026 19:17:33 | INFO | Menu choice selected: Chaina
+23-06-2026 19:17:33 | WARNING | Invalid menu choice entered
+23-06-2026 19:17:40 | INFO | Menu choice selected: Hyderabad
+23-06-2026 19:17:40 | WARNING | Invalid menu choice entered
+23-06-2026 19:17:58 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 19:17:58 | WARNING | Invalid menu choice entered
+23-06-2026 19:18:06 | INFO | Menu choice selected: 1
+23-06-2026 19:18:38 | INFO | User searched for city: hyderabad
+23-06-2026 19:18:39 | INFO | Weather data fetched successfully for Hyderabad
+23-06-2026 19:18:39 | INFO | Weather report stored in database for Hyderabad
+23-06-2026 19:21:06 | INFO | Menu choice selected: C:\Users\Maheshwari\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Maheshwari/Downloads/Mini Project/Weather Data Logger System.py"
+23-06-2026 19:21:06 | WARNING | Invalid menu choice entered
+23-06-2026 19:21:10 | INFO | Menu choice selected: 1
+23-06-2026 19:21:17 | INFO | User searched for city: chaina
+23-06-2026 19:21:18 | INFO | Weather data fetched successfully for Chainatic
+23-06-2026 19:21:18 | INFO | Weather report stored in database for Chainatic
+23-06-2026 19:21:49 | INFO | Menu choice selected: 3
+23-06-2026 19:21:49 | INFO | Application closed by user
