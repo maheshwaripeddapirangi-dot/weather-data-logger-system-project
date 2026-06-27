@@ -5,9 +5,8 @@ from datetime import datetime
 import os
 import logging
 
-# ==========================
+
 # LOGGING SETUP
-# ==========================
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
@@ -21,26 +20,26 @@ logging.basicConfig(
 print("Current Directory:", os.getcwd())
 logging.info("Program Started")
 
-# ==========================
+
 # DATABASE CONNECTION
-# ==========================
+
 def get_connection():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="M@ha",   # change if needed
+        password="M@ha",   
         database="weather_db"
     )
 
-# ==========================
+
 # CHECK WEATHER
-# ==========================
+
 def check_weather():
-    API_KEY = "YOUR_API_KEY"  # replace with your WeatherAPI key
+    API_KEY = "0194a46b790a48818ec20041261906" 
     city = input("Enter city: ")
     logging.info(f"User searched for city: {city}")
 
-    url = f"https://api.weatherapi.com/v1/current.json?key={API_KEY}&q={city}"
+    url = f"https://api.weatherapi.com/v1/current.json?key={0194a46b790a48818ec20041261906}&q={city}"
 
     try:
         response = requests.get(url)
@@ -58,7 +57,7 @@ def check_weather():
             visibility = data["current"]["vis_km"]
             uv_index = data["current"]["uv"]
 
-            print("\n🌦️ Weather Report")
+            print("\n Weather Report")
             print("City        :", city_name)
             print("Country     :", country)
             print("Temperature :", temp, "°C")
@@ -98,7 +97,7 @@ def check_weather():
             conn.commit()
 
             logging.info(f"Weather data stored for {city_name}")
-            print("✅ Data saved successfully!")
+            print(" Data saved successfully!")
 
             cursor.close()
             conn.close()
@@ -112,9 +111,9 @@ def check_weather():
         logging.error(f"Error: {e}")
         print("Error:", e)
 
-# ==========================
+
 # VIEW HISTORY
-# ==========================
+
 def view_history():
     try:
         conn = get_connection()
@@ -128,7 +127,7 @@ def view_history():
 
         records = cursor.fetchall()
 
-        print("\n📊 Weather History:")
+        print("\n Weather History:")
         for row in records:
             print(row)
 
@@ -138,9 +137,8 @@ def view_history():
     except Exception as e:
         print("Error:", e)
 
-# ==========================
 # LAST SEARCH
-# ==========================
+
 def view_last_search():
     conn = get_connection()
     cursor = conn.cursor()
@@ -156,7 +154,7 @@ def view_last_search():
     record = cursor.fetchone()
 
     if record:
-        print("\n📌 Last Weather Search:")
+        print("\n Last Weather Search:")
         print(record)
     else:
         print("No records found")
@@ -164,11 +162,11 @@ def view_last_search():
     cursor.close()
     conn.close()
 
-# ==========================
+
 # MAIN MENU
-# ==========================
+
 while True:
-    print("\n===== WEATHER DATA LOGGER =====")
+    print("\n WEATHER DATA LOGGER ")
     print("1. Check Weather")
     print("2. View History")
     print("3. View Last Search")
